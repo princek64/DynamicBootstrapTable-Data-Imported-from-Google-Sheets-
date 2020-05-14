@@ -1,0 +1,17 @@
+*{
+    /* margin: 0; */
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 80%;
+    overflow: hidden;
+    margin: 10rem !important;
+}
+
+/* table {
+    display: grid;
+    place-items: center;
+    margin: 5em 5em;
+} */
